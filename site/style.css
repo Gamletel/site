@@ -1,0 +1,82 @@
+h1{
+    font-family: sans-serif;
+    color: rgb(233, 230, 230);
+}
+h2{
+    font-family: sans-serif;
+    color: rgb(170, 65, 65);
+}
+#textosnova{
+    text-align: left;
+    font-family: sans-serif;
+    color: rgb(233, 230, 230);
+    font-size: large;
+}
+body{
+    background-image: url("fon.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#top{
+    height: 125px;
+    width: 75%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(126, 125, 125, 0.397);
+    border-radius: 100px;
+}
+#osnova{
+    height: 500px;
+    width: 80%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(240, 240, 240, 0.89);
+    border-radius: 15px;
+}
+#osnova1{
+    height: 800px;
+    width: 80%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(240, 240, 240, 0.897);
+    border-radius: 15px;
+}
+#osn1{
+    float: left;
+    margin-left: 30px;
+    height: 60%;
+    width: 30%;
+    text-align: center;
+    background-color: rgba(85, 83, 83, 0.397);
+    border-radius: 15px;
+}
+#osn2{
+    float: left;
+    margin-left: 30px;
+    height: 80%;
+    width: 30%;
+    text-align: center;
+    background-color: rgba(85, 83, 83, 0.397);
+    border-radius: 15px;
+}
+.btn {
+    display: inline-block; /* Строчно-блочный элемент */
+    background: #8C959D; /* Серый цвет фона */
+    color: #fff; /* Белый цвет текста */
+    padding: 0px 100px; /* Поля вокруг текста */
+    text-decoration: none; /* Убираем подчёркивание */
+    border-radius: 15px; /* Скругляем уголки */
+   }
+.btn1 {
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    margin-left: 25px;
+   }
+#kartinka{
+    width: 250px;
+    height: 300px;
+}
